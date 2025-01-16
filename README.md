@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book: Espécies de Tubarões e suas Curiosidades
 
 ## 📒 Descrição
 Este e-book de 5 páginas explora as espécies de tubarões existentes.
